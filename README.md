@@ -18,12 +18,6 @@ A Streamlit based application for Price prediction and damage detection of secon
 This Project has the main objective of predicting correct prices of secondhand cars on a dataset that has a variety of Indian Vehicles. We have also used Selenium for webscraping to compare the prices of a particular car on different websites like cars24 and CarDekho.com. Along with providing prices we are also detecting damages done to car via adding pictures pictures of it on oour Streamlit based application and reducing the price based on the damage done. 
 
 
-
-## Authors
-
-- [@Krish Panchal](https://github.com/beastkp)
-- [@Tejas Itankar](https://github.com/tezz94820)
-
 ## Tech Stack
 
 **Models used:** Decision-trees, Random-Forest, Resnet-50, XGBoost
