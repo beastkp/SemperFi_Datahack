@@ -38,6 +38,11 @@ This Project has the main objective of predicting correct prices of secondhand c
 
 If you have any feedback, please reach out to us at kroshpan@gmail.com
 
+## Demo
+
+Refer to demo [here]([Documentation](https://linktodocumentation))
+
+
 
 
 
